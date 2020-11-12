@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="activity_name_1">Активность 1</string>
+    <string name="activity_name_2">Активность 2</string>
+    <string name="browser_name">Браузер</string>
+    <string name="back_text">Вернулись обратно!!!</string>
+</resources>
